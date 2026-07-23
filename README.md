@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/rishi-240901/Leetcode24/tree/master/0041-first-missing-positive) |
 | [0142-linked-list-cycle-ii](https://github.com/rishi-240901/Leetcode24/tree/master/0142-linked-list-cycle-ii) |
 | [0705-design-hashset](https://github.com/rishi-240901/Leetcode24/tree/master/0705-design-hashset) |
 ## Linked List
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/rishi-240901/Leetcode24/tree/master/0041-first-missing-positive) |
 | [0287-find-the-duplicate-number](https://github.com/rishi-240901/Leetcode24/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/rishi-240901/Leetcode24/tree/master/0414-third-maximum-number) |
 | [0705-design-hashset](https://github.com/rishi-240901/Leetcode24/tree/master/0705-design-hashset) |
