@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/rishi-240901/Leetcode24/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/rishi-240901/Leetcode24/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/rishi-240901/Leetcode24/tree/master/0048-rotate-image) |
 | [0209-minimum-size-subarray-sum](https://github.com/rishi-240901/Leetcode24/tree/master/0209-minimum-size-subarray-sum) |
 | [0274-h-index](https://github.com/rishi-240901/Leetcode24/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/rishi-240901/Leetcode24/tree/master/0287-find-the-duplicate-number) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/rishi-240901/Leetcode24/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/rishi-240901/Leetcode24/tree/master/0067-add-binary) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/rishi-240901/Leetcode24/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## String
@@ -149,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/rishi-240901/Leetcode24/tree/master/0067-add-binary) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/rishi-240901/Leetcode24/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
