@@ -1,29 +1,28 @@
 class Solution {
     public List<List<Integer>> fourSum(int[] nums, int target) {
-        Set<List<Integer>> set = new HashSet<>();
-        int n = nums.length;
+        Set<List<Integer>> set=new HashSet<>();
+        int n=nums.length;
         Arrays.sort(nums);
-        
-        for (int i = 0; i < n; i++) {
-            for (int j = i + 1; j < n; j++) {
-                
-                HashSet<Long> Hs = new HashSet<>();
-                
-                for (int k = j + 1; k < n; k++) {
-                   
-                    long sum = (long) nums[i] + (long) nums[j] + (long) nums[k];
-                    
-                
-                    long fourth = (long) target - sum;
-                    
-                    if (Hs.contains(fourth)) {
-                        List<Integer> temp = Arrays.asList(nums[i], nums[j], (int) fourth, nums[k]);
-                        set.add(temp);
+        for(int i=0;i<n;i++){  // apn ne loop chalayi 
+            for(int j=i+1;j<n;j++){ //usse agle k liye chalayi 
+                int left=j+1; //pointr use kre to reduce complexity 
+                int right=n-1;
+                while(left<right){
+                    long sum=(long) nums[i]+ nums[j] + nums[left]+nums[right]; //sum m dd krliya sbko
+                    if(sum==target){ //check kra agr theek h toh l++ r-- krte rho
+                        set.add(Arrays.asList(nums[i],nums[j], nums[left],nums[right]));
+                        left++;
+                        right--;
                     }
-                    Hs.add((long) nums[k]);
+                    else if(sum<target){
+                        left++;
+                    }
+                    else{
+                        right--;
+                    }
                 }
             }
         }
-        return new ArrayList<>(set);
+        return new ArrayList<>(set);  // lasr m return krdo
     }
 }
