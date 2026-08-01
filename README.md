@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/rishi-240901/Leetcode24/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/rishi-240901/Leetcode24/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/rishi-240901/Leetcode24/tree/master/0112-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rishi-240901/Leetcode24/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/rishi-240901/Leetcode24/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/rishi-240901/Leetcode24/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/rishi-240901/Leetcode24/tree/master/0112-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rishi-240901/Leetcode24/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -98,10 +100,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/rishi-240901/Leetcode24/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/rishi-240901/Leetcode24/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/rishi-240901/Leetcode24/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/rishi-240901/Leetcode24/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/rishi-240901/Leetcode24/tree/master/0112-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rishi-240901/Leetcode24/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
