@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/rishi-240901/Leetcode24/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/rishi-240901/Leetcode24/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/rishi-240901/Leetcode24/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/rishi-240901/Leetcode24/tree/master/0344-reverse-string) |
