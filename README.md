@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/rishi-240901/Leetcode24/tree/master/0202-happy-number) |
 | [0383-ransom-note](https://github.com/rishi-240901/Leetcode24/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/rishi-240901/Leetcode24/tree/master/0389-find-the-difference) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rishi-240901/Leetcode24/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/rishi-240901/Leetcode24/tree/master/0560-subarray-sum-equals-k) |
 | [0705-design-hashset](https://github.com/rishi-240901/Leetcode24/tree/master/0705-design-hashset) |
 ## Linked List
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/rishi-240901/Leetcode24/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/rishi-240901/Leetcode24/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/rishi-240901/Leetcode24/tree/master/0414-third-maximum-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rishi-240901/Leetcode24/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/rishi-240901/Leetcode24/tree/master/0560-subarray-sum-equals-k) |
 | [0705-design-hashset](https://github.com/rishi-240901/Leetcode24/tree/master/0705-design-hashset) |
 | [1019-next-greater-node-in-linked-list](https://github.com/rishi-240901/Leetcode24/tree/master/1019-next-greater-node-in-linked-list) |
