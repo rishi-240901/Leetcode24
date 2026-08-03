@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/rishi-240901/Leetcode24/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/rishi-240901/Leetcode24/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/rishi-240901/Leetcode24/tree/master/0056-merge-intervals) |
+| [0074-search-a-2d-matrix](https://github.com/rishi-240901/Leetcode24/tree/master/0074-search-a-2d-matrix) |
 | [0134-gas-station](https://github.com/rishi-240901/Leetcode24/tree/master/0134-gas-station) |
 | [0209-minimum-size-subarray-sum](https://github.com/rishi-240901/Leetcode24/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/rishi-240901/Leetcode24/tree/master/0238-product-of-array-except-self) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/rishi-240901/Leetcode24/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/rishi-240901/Leetcode24/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/rishi-240901/Leetcode24/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/rishi-240901/Leetcode24/tree/master/0367-valid-perfect-square) |
@@ -194,4 +196,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/rishi-240901/Leetcode24/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/rishi-240901/Leetcode24/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
