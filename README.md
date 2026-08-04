@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/rishi-240901/Leetcode24/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/rishi-240901/Leetcode24/tree/master/0234-palindrome-linked-list) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/rishi-240901/Leetcode24/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1019-next-greater-node-in-linked-list](https://github.com/rishi-240901/Leetcode24/tree/master/1019-next-greater-node-in-linked-list) |
 ## Recursion
 |  |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/rishi-240901/Leetcode24/tree/master/0045-jump-game-ii) |
 | [0134-gas-station](https://github.com/rishi-240901/Leetcode24/tree/master/0134-gas-station) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/rishi-240901/Leetcode24/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Sliding Window
 |  |
 | ------- |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/rishi-240901/Leetcode24/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/rishi-240901/Leetcode24/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/rishi-240901/Leetcode24/tree/master/0389-find-the-difference) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/rishi-240901/Leetcode24/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1446-consecutive-characters](https://github.com/rishi-240901/Leetcode24/tree/master/1446-consecutive-characters) |
 ## Simulation
 |  |
@@ -218,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/rishi-240901/Leetcode24/tree/master/0142-linked-list-cycle-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/rishi-240901/Leetcode24/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
