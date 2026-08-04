@@ -213,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/rishi-240901/Leetcode24/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/rishi-240901/Leetcode24/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
