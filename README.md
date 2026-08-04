@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rishi-240901/Leetcode24/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/rishi-240901/Leetcode24/tree/master/0560-subarray-sum-equals-k) |
 | [0705-design-hashset](https://github.com/rishi-240901/Leetcode24/tree/master/0705-design-hashset) |
+| [3731-find-missing-elements](https://github.com/rishi-240901/Leetcode24/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/rishi-240901/Leetcode24/tree/master/1019-next-greater-node-in-linked-list) |
 | [1539-kth-missing-positive-number](https://github.com/rishi-240901/Leetcode24/tree/master/1539-kth-missing-positive-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/rishi-240901/Leetcode24/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3731-find-missing-elements](https://github.com/rishi-240901/Leetcode24/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/rishi-240901/Leetcode24/tree/master/0274-h-index) |
 | [0389-find-the-difference](https://github.com/rishi-240901/Leetcode24/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/rishi-240901/Leetcode24/tree/master/0414-third-maximum-number) |
+| [3731-find-missing-elements](https://github.com/rishi-240901/Leetcode24/tree/master/3731-find-missing-elements) |
 ## Merge Sort
 |  |
 | ------- |
