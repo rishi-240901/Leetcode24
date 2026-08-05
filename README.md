@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/rishi-240901/Leetcode24/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/rishi-240901/Leetcode24/tree/master/0041-first-missing-positive) |
 | [0142-linked-list-cycle-ii](https://github.com/rishi-240901/Leetcode24/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/rishi-240901/Leetcode24/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/rishi-240901/Leetcode24/tree/master/0202-happy-number) |
 | [0383-ransom-note](https://github.com/rishi-240901/Leetcode24/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/rishi-240901/Leetcode24/tree/master/0389-find-the-difference) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/rishi-240901/Leetcode24/tree/master/0143-reorder-list) |
 | [0147-insertion-sort-list](https://github.com/rishi-240901/Leetcode24/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/rishi-240901/Leetcode24/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/rishi-240901/Leetcode24/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/rishi-240901/Leetcode24/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/rishi-240901/Leetcode24/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/rishi-240901/Leetcode24/tree/master/0237-delete-node-in-a-linked-list) |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/rishi-240901/Leetcode24/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/rishi-240901/Leetcode24/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/rishi-240901/Leetcode24/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/rishi-240901/Leetcode24/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/rishi-240901/Leetcode24/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/rishi-240901/Leetcode24/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/rishi-240901/Leetcode24/tree/master/0287-find-the-duplicate-number) |
