@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/rishi-240901/Leetcode24/tree/master/0705-design-hashset) |
 | [1019-next-greater-node-in-linked-list](https://github.com/rishi-240901/Leetcode24/tree/master/1019-next-greater-node-in-linked-list) |
 | [1539-kth-missing-positive-number](https://github.com/rishi-240901/Leetcode24/tree/master/1539-kth-missing-positive-number) |
+| [1572-matrix-diagonal-sum](https://github.com/rishi-240901/Leetcode24/tree/master/1572-matrix-diagonal-sum) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/rishi-240901/Leetcode24/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3731-find-missing-elements](https://github.com/rishi-240901/Leetcode24/tree/master/3731-find-missing-elements) |
 ## Binary Search
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/rishi-240901/Leetcode24/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/rishi-240901/Leetcode24/tree/master/0074-search-a-2d-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/rishi-240901/Leetcode24/tree/master/1572-matrix-diagonal-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
