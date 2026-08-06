@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/rishi-240901/Leetcode24/tree/master/0045-jump-game-ii) |
 | [0509-fibonacci-number](https://github.com/rishi-240901/Leetcode24/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/rishi-240901/Leetcode24/tree/master/1137-n-th-tribonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/rishi-240901/Leetcode24/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/rishi-240901/Leetcode24/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/rishi-240901/Leetcode24/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/rishi-240901/Leetcode24/tree/master/1137-n-th-tribonacci-number) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/rishi-240901/Leetcode24/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/rishi-240901/Leetcode24/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## String
@@ -247,4 +249,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/rishi-240901/Leetcode24/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/rishi-240901/Leetcode24/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
