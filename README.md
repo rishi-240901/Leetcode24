@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/rishi-240901/Leetcode24/tree/master/0004-median-of-two-sorted-arrays) |
 | [0018-4sum](https://github.com/rishi-240901/Leetcode24/tree/master/0018-4sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rishi-240901/Leetcode24/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/rishi-240901/Leetcode24/tree/master/0041-first-missing-positive) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/rishi-240901/Leetcode24/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rishi-240901/Leetcode24/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/rishi-240901/Leetcode24/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/rishi-240901/Leetcode24/tree/master/0209-minimum-size-subarray-sum) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/rishi-240901/Leetcode24/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/rishi-240901/Leetcode24/tree/master/0148-sort-list) |
 ## Sorting
 |  |
