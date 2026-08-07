@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/rishi-240901/Leetcode24/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rishi-240901/Leetcode24/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/rishi-240901/Leetcode24/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/rishi-240901/Leetcode24/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/rishi-240901/Leetcode24/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/rishi-240901/Leetcode24/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rishi-240901/Leetcode24/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/rishi-240901/Leetcode24/tree/master/0134-gas-station) |
 | [0209-minimum-size-subarray-sum](https://github.com/rishi-240901/Leetcode24/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/rishi-240901/Leetcode24/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/rishi-240901/Leetcode24/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/rishi-240901/Leetcode24/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/rishi-240901/Leetcode24/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/rishi-240901/Leetcode24/tree/master/0414-third-maximum-number) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rishi-240901/Leetcode24/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/rishi-240901/Leetcode24/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/rishi-240901/Leetcode24/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/rishi-240901/Leetcode24/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/rishi-240901/Leetcode24/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/rishi-240901/Leetcode24/tree/master/0367-valid-perfect-square) |
 | [1539-kth-missing-positive-number](https://github.com/rishi-240901/Leetcode24/tree/master/1539-kth-missing-positive-number) |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/rishi-240901/Leetcode24/tree/master/0067-add-binary) |
+| [0268-missing-number](https://github.com/rishi-240901/Leetcode24/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/rishi-240901/Leetcode24/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/rishi-240901/Leetcode24/tree/master/0389-find-the-difference) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/rishi-240901/Leetcode24/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -155,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/rishi-240901/Leetcode24/tree/master/0056-merge-intervals) |
 | [0147-insertion-sort-list](https://github.com/rishi-240901/Leetcode24/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/rishi-240901/Leetcode24/tree/master/0148-sort-list) |
+| [0268-missing-number](https://github.com/rishi-240901/Leetcode24/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/rishi-240901/Leetcode24/tree/master/0274-h-index) |
 | [0389-find-the-difference](https://github.com/rishi-240901/Leetcode24/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/rishi-240901/Leetcode24/tree/master/0414-third-maximum-number) |
@@ -210,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/rishi-240901/Leetcode24/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/rishi-240901/Leetcode24/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/rishi-240901/Leetcode24/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/rishi-240901/Leetcode24/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/rishi-240901/Leetcode24/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/rishi-240901/Leetcode24/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/rishi-240901/Leetcode24/tree/master/1137-n-th-tribonacci-number) |
