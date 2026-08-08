@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/rishi-240901/Leetcode24/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/rishi-240901/Leetcode24/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/rishi-240901/Leetcode24/tree/master/0268-missing-number) |
+| [0319-bulb-switcher](https://github.com/rishi-240901/Leetcode24/tree/master/0319-bulb-switcher) |
 | [0367-valid-perfect-square](https://github.com/rishi-240901/Leetcode24/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/rishi-240901/Leetcode24/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/rishi-240901/Leetcode24/tree/master/1137-n-th-tribonacci-number) |
@@ -275,4 +276,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rishi-240901/Leetcode24/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/rishi-240901/Leetcode24/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
