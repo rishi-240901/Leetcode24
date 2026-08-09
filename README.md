@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rishi-240901/Leetcode24/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/rishi-240901/Leetcode24/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/rishi-240901/Leetcode24/tree/master/1572-matrix-diagonal-sum) |
+| [1800-maximum-ascending-subarray-sum](https://github.com/rishi-240901/Leetcode24/tree/master/1800-maximum-ascending-subarray-sum) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/rishi-240901/Leetcode24/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3731-find-missing-elements](https://github.com/rishi-240901/Leetcode24/tree/master/3731-find-missing-elements) |
 ## Binary Search
