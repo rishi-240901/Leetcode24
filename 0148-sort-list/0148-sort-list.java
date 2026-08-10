@@ -1,24 +1,22 @@
 class Solution {
     public ListNode sortList(ListNode head) {
-        ListNode slow=head;
-        if(head == null || head.next == null)
+        if(head==null || head.next==null){
             return head;
+        }
+        ListNode slow=head;
         ListNode fast=head.next;
         while(fast!=null && fast.next!=null){
             slow=slow.next;
             fast=fast.next.next;
         }
-        ListNode mid=slow.next;
+        ListNode k=slow.next;
         slow.next=null;
-
-        ListNode left = sortList(head);
-        ListNode right = sortList(mid);
-
-        return merge(left, right);
+        ListNode left=sortList(head);
+        ListNode right=sortList(k);
+        return merge(left,right);
 
     }
-
-    private  ListNode merge(ListNode l1,ListNode l2){
+    private ListNode merge(ListNode l1,ListNode l2){
         ListNode dummy=new ListNode(0);
         ListNode k=dummy;
         while(l1!=null && l2!=null){
@@ -34,11 +32,9 @@ class Solution {
         }
         if(l1!=null){
             k.next=l1;
-
         }
-        if(l2!=null){
+        else{
             k.next=l2;
-
         }
         return dummy.next;
     }
