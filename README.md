@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rishi-240901/Leetcode24/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/rishi-240901/Leetcode24/tree/master/0024-swap-nodes-in-pairs) |
+| [0086-partition-list](https://github.com/rishi-240901/Leetcode24/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/rishi-240901/Leetcode24/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/rishi-240901/Leetcode24/tree/master/0143-reorder-list) |
 | [0147-insertion-sort-list](https://github.com/rishi-240901/Leetcode24/tree/master/0147-insertion-sort-list) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/rishi-240901/Leetcode24/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rishi-240901/Leetcode24/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/rishi-240901/Leetcode24/tree/master/0027-remove-element) |
+| [0086-partition-list](https://github.com/rishi-240901/Leetcode24/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/rishi-240901/Leetcode24/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/rishi-240901/Leetcode24/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/rishi-240901/Leetcode24/tree/master/0148-sort-list) |
