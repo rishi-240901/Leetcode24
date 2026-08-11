@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/rishi-240901/Leetcode24/tree/master/0334-increasing-triplet-subsequence) |
 | [0414-third-maximum-number](https://github.com/rishi-240901/Leetcode24/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rishi-240901/Leetcode24/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/rishi-240901/Leetcode24/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/rishi-240901/Leetcode24/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/rishi-240901/Leetcode24/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/rishi-240901/Leetcode24/tree/master/0705-design-hashset) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rishi-240901/Leetcode24/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/rishi-240901/Leetcode24/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/rishi-240901/Leetcode24/tree/master/0367-valid-perfect-square) |
+| [0540-single-element-in-a-sorted-array](https://github.com/rishi-240901/Leetcode24/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/rishi-240901/Leetcode24/tree/master/0704-binary-search) |
 | [1539-kth-missing-positive-number](https://github.com/rishi-240901/Leetcode24/tree/master/1539-kth-missing-positive-number) |
 ## Bit Manipulation
