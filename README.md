@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/rishi-240901/Leetcode24/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/rishi-240901/Leetcode24/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/rishi-240901/Leetcode24/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/rishi-240901/Leetcode24/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/rishi-240901/Leetcode24/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/rishi-240901/Leetcode24/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/rishi-240901/Leetcode24/tree/master/0143-reorder-list) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/rishi-240901/Leetcode24/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rishi-240901/Leetcode24/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/rishi-240901/Leetcode24/tree/master/0027-remove-element) |
+| [0061-rotate-list](https://github.com/rishi-240901/Leetcode24/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/rishi-240901/Leetcode24/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/rishi-240901/Leetcode24/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/rishi-240901/Leetcode24/tree/master/0143-reorder-list) |
