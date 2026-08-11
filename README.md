@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rishi-240901/Leetcode24/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/rishi-240901/Leetcode24/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/rishi-240901/Leetcode24/tree/master/0024-swap-nodes-in-pairs) |
 | [0086-partition-list](https://github.com/rishi-240901/Leetcode24/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/rishi-240901/Leetcode24/tree/master/0142-linked-list-cycle-ii) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/rishi-240901/Leetcode24/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/rishi-240901/Leetcode24/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/rishi-240901/Leetcode24/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/rishi-240901/Leetcode24/tree/master/0203-remove-linked-list-elements) |
