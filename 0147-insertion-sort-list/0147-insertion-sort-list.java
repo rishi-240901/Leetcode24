@@ -1,4 +1,3 @@
-
 class Solution {
     public ListNode insertionSortList(ListNode head) {
         if(head==null || head.next==null){
@@ -12,15 +11,12 @@ class Solution {
         }
         ListNode mid=slow.next;
         slow.next=null;
-
-        ListNode left = insertionSortList(head);
-        ListNode right = insertionSortList(mid);
-
+        ListNode left=insertionSortList(head);
+        ListNode right=insertionSortList(mid);
         return insert(left,right);
     }
-
     private ListNode insert(ListNode l1,ListNode l2){
-        ListNode dummy=new ListNode (-1);
+        ListNode dummy=new ListNode(-1);
         ListNode k=dummy;
         while(l1!=null && l2!=null){
             if(l1.val<l2.val){
@@ -33,10 +29,10 @@ class Solution {
             }
             k=k.next;
         }
-       if(l1!=null){
+        if(l1!=null){
             k.next=l1;
         }
-       if(l2!=null){
+        if(l2!=null){
             k.next=l2;
         }
         return dummy.next;
