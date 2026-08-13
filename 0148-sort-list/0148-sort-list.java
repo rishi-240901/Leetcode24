@@ -1,20 +1,20 @@
+
 class Solution {
     public ListNode sortList(ListNode head) {
-        if(head==null || head.next==null){
-            return head;
-        }
-        ListNode slow=head;
-        ListNode fast=head.next;
-        while(fast!=null && fast.next!=null){
+       if(head==null || head.next==null){
+        return head;
+       } 
+       ListNode slow=head;
+       ListNode fast=head.next;
+       while(fast!=null && fast.next!=null){
             slow=slow.next;
             fast=fast.next.next;
-        }
-        ListNode k=slow.next;
-        slow.next=null;
-        ListNode left=sortList(head);
-        ListNode right=sortList(k);
-        return merge(left,right);
-
+       }
+       ListNode mid=slow.next;
+       slow.next=null;
+       ListNode left=sortList(head);
+       ListNode right=sortList(mid);
+       return merge(left,right);
     }
     private ListNode merge(ListNode l1,ListNode l2){
         ListNode dummy=new ListNode(0);
