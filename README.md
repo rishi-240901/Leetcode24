@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/rishi-240901/Leetcode24/tree/master/0705-design-hashset) |
 | [0876-middle-of-the-linked-list](https://github.com/rishi-240901/Leetcode24/tree/master/0876-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/rishi-240901/Leetcode24/tree/master/1019-next-greater-node-in-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/rishi-240901/Leetcode24/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/rishi-240901/Leetcode24/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/rishi-240901/Leetcode24/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Two Pointers
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/rishi-240901/Leetcode24/tree/master/0345-reverse-vowels-of-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/rishi-240901/Leetcode24/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/rishi-240901/Leetcode24/tree/master/0977-squares-of-a-sorted-array) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/rishi-240901/Leetcode24/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Stack
 |  |
 | ------- |
