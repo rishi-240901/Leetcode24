@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/rishi-240901/Leetcode24/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/rishi-240901/Leetcode24/tree/master/0041-first-missing-positive) |
+| [0128-longest-consecutive-sequence](https://github.com/rishi-240901/Leetcode24/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/rishi-240901/Leetcode24/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rishi-240901/Leetcode24/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rishi-240901/Leetcode24/tree/master/0160-intersection-of-two-linked-lists) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/rishi-240901/Leetcode24/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/rishi-240901/Leetcode24/tree/master/0075-sort-colors) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rishi-240901/Leetcode24/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/rishi-240901/Leetcode24/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/rishi-240901/Leetcode24/tree/master/0134-gas-station) |
 | [0162-find-peak-element](https://github.com/rishi-240901/Leetcode24/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rishi-240901/Leetcode24/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -357,4 +359,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/rishi-240901/Leetcode24/tree/master/0075-sort-colors) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/rishi-240901/Leetcode24/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
