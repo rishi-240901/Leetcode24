@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/rishi-240901/Leetcode24/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/rishi-240901/Leetcode24/tree/master/0013-roman-to-integer) |
+| [0058-length-of-last-word](https://github.com/rishi-240901/Leetcode24/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/rishi-240901/Leetcode24/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/rishi-240901/Leetcode24/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/rishi-240901/Leetcode24/tree/master/0345-reverse-vowels-of-a-string) |
