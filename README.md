@@ -325,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/rishi-240901/Leetcode24/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rishi-240901/Leetcode24/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/rishi-240901/Leetcode24/tree/master/0287-find-the-duplicate-number) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -363,4 +364,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/rishi-240901/Leetcode24/tree/master/0128-longest-consecutive-sequence) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/rishi-240901/Leetcode24/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
