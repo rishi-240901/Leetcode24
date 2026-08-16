@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/rishi-240901/Leetcode24/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/rishi-240901/Leetcode24/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/rishi-240901/Leetcode24/tree/master/0148-sort-list) |
+| [0151-reverse-words-in-a-string](https://github.com/rishi-240901/Leetcode24/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rishi-240901/Leetcode24/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rishi-240901/Leetcode24/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/rishi-240901/Leetcode24/tree/master/0202-happy-number) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/rishi-240901/Leetcode24/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/rishi-240901/Leetcode24/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/rishi-240901/Leetcode24/tree/master/0067-add-binary) |
+| [0151-reverse-words-in-a-string](https://github.com/rishi-240901/Leetcode24/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/rishi-240901/Leetcode24/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/rishi-240901/Leetcode24/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/rishi-240901/Leetcode24/tree/master/0383-ransom-note) |
