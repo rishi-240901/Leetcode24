@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/rishi-240901/Leetcode24/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/rishi-240901/Leetcode24/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/rishi-240901/Leetcode24/tree/master/0345-reverse-vowels-of-a-string) |
+| [0443-string-compression](https://github.com/rishi-240901/Leetcode24/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/rishi-240901/Leetcode24/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/rishi-240901/Leetcode24/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/rishi-240901/Leetcode24/tree/master/0977-squares-of-a-sorted-array) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/rishi-240901/Leetcode24/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/rishi-240901/Leetcode24/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/rishi-240901/Leetcode24/tree/master/0389-find-the-difference) |
+| [0443-string-compression](https://github.com/rishi-240901/Leetcode24/tree/master/0443-string-compression) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rishi-240901/Leetcode24/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1446-consecutive-characters](https://github.com/rishi-240901/Leetcode24/tree/master/1446-consecutive-characters) |
 ## Simulation
