@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/rishi-240901/Leetcode24/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rishi-240901/Leetcode24/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/rishi-240901/Leetcode24/tree/master/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/rishi-240901/Leetcode24/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rishi-240901/Leetcode24/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/rishi-240901/Leetcode24/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/rishi-240901/Leetcode24/tree/master/0389-find-the-difference) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/rishi-240901/Leetcode24/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/rishi-240901/Leetcode24/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/rishi-240901/Leetcode24/tree/master/0148-sort-list) |
+| [0242-valid-anagram](https://github.com/rishi-240901/Leetcode24/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rishi-240901/Leetcode24/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/rishi-240901/Leetcode24/tree/master/0274-h-index) |
 | [0389-find-the-difference](https://github.com/rishi-240901/Leetcode24/tree/master/0389-find-the-difference) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/rishi-240901/Leetcode24/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/rishi-240901/Leetcode24/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/rishi-240901/Leetcode24/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/rishi-240901/Leetcode24/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/rishi-240901/Leetcode24/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/rishi-240901/Leetcode24/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/rishi-240901/Leetcode24/tree/master/0383-ransom-note) |
