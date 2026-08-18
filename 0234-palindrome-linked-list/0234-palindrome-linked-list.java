@@ -1,19 +1,19 @@
 class Solution {
     public boolean isPalindrome(ListNode head) {
-        ArrayList<Integer> arr=new ArrayList<>();
-        ListNode temp=head;
-        while(temp!=null){
-            arr.add(temp.val);
-            temp=temp.next;
+        Stack<Integer> st=new Stack<>();
+        ListNode ptr1=head;
+        while(ptr1!=null){
+            st.push(ptr1.val);
+            ptr1=ptr1.next;
         }
-        int i=0;
-        int j=arr.size()-1;
-        while(i<j){
-            if(arr.get(i)!=arr.get(j)){
+        ListNode ptr2=head;
+        while(ptr2!=null){
+            int val1=ptr2.val;
+            int val2=st.pop();
+            if(val1!=val2){
                 return false;
             }
-            i++;
-            j--;
+            ptr2=ptr2.next;
         }
         return true;
     }
