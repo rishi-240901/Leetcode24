@@ -1,35 +1,35 @@
-
 class Solution {
     public ListNode reverseLL(ListNode head){
-        ListNode prev=null;
         ListNode curr=head;
-        ListNode next=null;
+        ListNode prev=null;
         while(curr!=null){
-            next=curr.next;
+            ListNode temp=curr.next;
             curr.next=prev;
             prev=curr;
-            curr=next;
+            curr=temp;
         }
         return prev;
     }
     public ListNode doubleIt(ListNode head) {
-        if(head==null) return null;
-        ListNode revHead = reverseLL(head);
-        ListNode temp = revHead;
+        ListNode nhead=reverseLL(head);
+        ListNode dummy=new ListNode(-1);
+        ListNode ans=dummy;
         int carry=0;
-        while(temp!=null){
-            int sum = temp.val*2 +carry;
-            temp.val = sum%10;
-            carry = sum/10;
-        
-        if(temp.next==null){
-            if(carry>0){
-            temp.next= new ListNode(carry);
-            }
-            break;
+        while(nhead!=null){
+            int sum=nhead.val+nhead.val+carry;
+            int d=sum%10;
+            carry=sum/10;
+            ListNode temp=new ListNode(d);
+            dummy.next=temp;
+            dummy=dummy.next;
+            nhead=nhead.next;
         }
-        temp=temp.next;
+        if(carry>0){
+            ListNode temp=new ListNode(carry);
+            dummy.next=temp;
         }
-        return reverseLL(revHead);
+        ans =reverseLL(ans.next);
+        return ans;
+
     }
 }
