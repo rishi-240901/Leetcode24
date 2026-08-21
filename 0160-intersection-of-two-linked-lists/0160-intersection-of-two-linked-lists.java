@@ -12,29 +12,27 @@ public class Solution {
         if(headA==null || headB==null){
             return null;
         }
-        int sizeA = sizeLL(headA);  // isse size pta chl jayega phle ka
-        int sizeB = sizeLL(headB);  // isse dusre ka 
-
-        ListNode temp1 = headA;  // aise manlo size1 bdah toh usko badhayenge 
-        ListNode temp2 = headB;  // nhi toh size2 ko badhayenge
-
-        int diff = sizeA-sizeB;  // -1
-        if(diff>0){  // iska mtlb ll1 bdi thi  
-            while(diff>0){   // yh toh chlega nhi 
-                temp1= temp1.next;
+        int sizeA=sizeLL(headA);
+        int sizeB=sizeLL(headB);
+        int diff=sizeA-sizeB;
+        ListNode ptr1=headA;
+        ListNode ptr2=headB;
+        if(diff>0){
+            while(diff>0){
+                ptr1=ptr1.next;
                 diff--;
             }
         }
         else{
-            while(diff<0){  // toh yeh chalega 
-                temp2 = temp2.next;  // toh temp2 badhega
-                diff++;  //0 hogya 
+            while(diff<0){
+                ptr2=ptr2.next;
+                diff++;
             }
         }
-        while(temp1!=temp2){
-            temp1=temp1.next;
-            temp2=temp2.next;
+        while(ptr1!=ptr2){
+            ptr1=ptr1.next;
+            ptr2=ptr2.next;
         }
-        return temp1;
+        return ptr1;
     }
 }
