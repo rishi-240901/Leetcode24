@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/rishi-240901/Leetcode24/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/rishi-240901/Leetcode24/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/rishi-240901/Leetcode24/tree/master/0112-path-sum) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/rishi-240901/Leetcode24/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rishi-240901/Leetcode24/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/rishi-240901/Leetcode24/tree/master/0543-diameter-of-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/rishi-240901/Leetcode24/tree/master/0965-univalued-binary-tree) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/rishi-240901/Leetcode24/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/rishi-240901/Leetcode24/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/rishi-240901/Leetcode24/tree/master/0112-path-sum) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/rishi-240901/Leetcode24/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rishi-240901/Leetcode24/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/rishi-240901/Leetcode24/tree/master/0543-diameter-of-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/rishi-240901/Leetcode24/tree/master/0965-univalued-binary-tree) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/rishi-240901/Leetcode24/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/rishi-240901/Leetcode24/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/rishi-240901/Leetcode24/tree/master/0112-path-sum) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/rishi-240901/Leetcode24/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rishi-240901/Leetcode24/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/rishi-240901/Leetcode24/tree/master/0543-diameter-of-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/rishi-240901/Leetcode24/tree/master/0965-univalued-binary-tree) |
@@ -362,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/rishi-240901/Leetcode24/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/rishi-240901/Leetcode24/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Floyd's Cycle Finding Algorithm
 |  |
