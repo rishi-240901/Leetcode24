@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/rishi-240901/Leetcode24/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/rishi-240901/Leetcode24/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/rishi-240901/Leetcode24/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/rishi-240901/Leetcode24/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/rishi-240901/Leetcode24/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/rishi-240901/Leetcode24/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/rishi-240901/Leetcode24/tree/master/0056-merge-intervals) |
@@ -419,4 +420,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/rishi-240901/Leetcode24/tree/master/0881-boats-to-save-people) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/rishi-240901/Leetcode24/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/rishi-240901/Leetcode24/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
