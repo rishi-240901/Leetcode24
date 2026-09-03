@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/rishi-240901/Leetcode24/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/rishi-240901/Leetcode24/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3731-find-missing-elements](https://github.com/rishi-240901/Leetcode24/tree/master/3731-find-missing-elements) |
+| [3875-construct-uniform-parity-array-i](https://github.com/rishi-240901/Leetcode24/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1518-water-bottles](https://github.com/rishi-240901/Leetcode24/tree/master/1518-water-bottles) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/rishi-240901/Leetcode24/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/rishi-240901/Leetcode24/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3875-construct-uniform-parity-array-i](https://github.com/rishi-240901/Leetcode24/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
 | ------- |
