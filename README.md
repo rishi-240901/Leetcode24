@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rishi-240901/Leetcode24/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/rishi-240901/Leetcode24/tree/master/0560-subarray-sum-equals-k) |
 | [0705-design-hashset](https://github.com/rishi-240901/Leetcode24/tree/master/0705-design-hashset) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/rishi-240901/Leetcode24/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/rishi-240901/Leetcode24/tree/master/1394-find-lucky-integer-in-an-array) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/rishi-240901/Leetcode24/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3731-find-missing-elements](https://github.com/rishi-240901/Leetcode24/tree/master/3731-find-missing-elements) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0769-max-chunks-to-make-sorted](https://github.com/rishi-240901/Leetcode24/tree/master/0769-max-chunks-to-make-sorted) |
 | [0867-transpose-matrix](https://github.com/rishi-240901/Leetcode24/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/rishi-240901/Leetcode24/tree/master/0881-boats-to-save-people) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/rishi-240901/Leetcode24/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/rishi-240901/Leetcode24/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-next-greater-node-in-linked-list](https://github.com/rishi-240901/Leetcode24/tree/master/1019-next-greater-node-in-linked-list) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/rishi-240901/Leetcode24/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/rishi-240901/Leetcode24/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/rishi-240901/Leetcode24/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/rishi-240901/Leetcode24/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/rishi-240901/Leetcode24/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/rishi-240901/Leetcode24/tree/master/1480-running-sum-of-1d-array) |
 ## Math
 |  |
