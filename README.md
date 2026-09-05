@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/rishi-240901/Leetcode24/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/rishi-240901/Leetcode24/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rishi-240901/Leetcode24/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0525-contiguous-array](https://github.com/rishi-240901/Leetcode24/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/rishi-240901/Leetcode24/tree/master/0560-subarray-sum-equals-k) |
 | [0705-design-hashset](https://github.com/rishi-240901/Leetcode24/tree/master/0705-design-hashset) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rishi-240901/Leetcode24/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/rishi-240901/Leetcode24/tree/master/0334-increasing-triplet-subsequence) |
 | [0414-third-maximum-number](https://github.com/rishi-240901/Leetcode24/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rishi-240901/Leetcode24/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0525-contiguous-array](https://github.com/rishi-240901/Leetcode24/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rishi-240901/Leetcode24/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/rishi-240901/Leetcode24/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/rishi-240901/Leetcode24/tree/master/0704-binary-search) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/rishi-240901/Leetcode24/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/rishi-240901/Leetcode24/tree/master/0238-product-of-array-except-self) |
+| [0525-contiguous-array](https://github.com/rishi-240901/Leetcode24/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/rishi-240901/Leetcode24/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rishi-240901/Leetcode24/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/rishi-240901/Leetcode24/tree/master/1480-running-sum-of-1d-array) |
