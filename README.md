@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/rishi-240901/Leetcode24/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3731-find-missing-elements](https://github.com/rishi-240901/Leetcode24/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/rishi-240901/Leetcode24/tree/master/3875-construct-uniform-parity-array-i) |
+| [3904-smallest-stable-index-ii](https://github.com/rishi-240901/Leetcode24/tree/master/3904-smallest-stable-index-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/rishi-240901/Leetcode24/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rishi-240901/Leetcode24/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/rishi-240901/Leetcode24/tree/master/1480-running-sum-of-1d-array) |
+| [3904-smallest-stable-index-ii](https://github.com/rishi-240901/Leetcode24/tree/master/3904-smallest-stable-index-ii) |
 ## Math
 |  |
 | ------- |
