@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rishi-240901/Leetcode24/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/rishi-240901/Leetcode24/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/rishi-240901/Leetcode24/tree/master/0389-find-the-difference) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/rishi-240901/Leetcode24/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rishi-240901/Leetcode24/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/rishi-240901/Leetcode24/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/rishi-240901/Leetcode24/tree/master/0560-subarray-sum-equals-k) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rishi-240901/Leetcode24/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/rishi-240901/Leetcode24/tree/master/0209-minimum-size-subarray-sum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/rishi-240901/Leetcode24/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/rishi-240901/Leetcode24/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/rishi-240901/Leetcode24/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/rishi-240901/Leetcode24/tree/master/0389-find-the-difference) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/rishi-240901/Leetcode24/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/rishi-240901/Leetcode24/tree/master/0443-string-compression) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rishi-240901/Leetcode24/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1446-consecutive-characters](https://github.com/rishi-240901/Leetcode24/tree/master/1446-consecutive-characters) |
